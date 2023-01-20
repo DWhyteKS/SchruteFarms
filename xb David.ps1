@@ -1,0 +1,2 @@
+Connect-MgGraph
+get-mguser
